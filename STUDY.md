@@ -24,3 +24,6 @@ Thanks!
 https://www.youtube.com/watch?v=KYvOqUB_odg
 
 ICP-Based Pose-Graph SLAM
+
+
+user@pc:/mnt/Downloads/kitti/2011_10_03_drive_0034$ python2 /mnt/project/github/catkin_ws/src/gmukitti/scripts/kitti2bag -t 2011_10_03 -r 0034 raw_synced .
